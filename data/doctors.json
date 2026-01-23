@@ -22,5 +22,13 @@
     "department": "dentist",
     "bio": "Experienced dentist focused on preventive care, cosmetic dentistry, and painless treatments.\nCommitted to helping patients maintain healthy, confident smiles.",
     "image": "https://raw.githubusercontent.com/taruuuun/doctors-website-data/main/images/ananya-sharma-3-1769163555976.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Dr. Rahul Mehta",
+    "specialty": "Neurology & Brain Disorders",
+    "department": "neurologist",
+    "bio": "Specializes in diagnosing and treating disorders of the brain, spine, and nervous system.\nKnown for patient-centric care in managing migraines, epilepsy, and stroke.",
+    "image": "https://raw.githubusercontent.com/taruuuun/doctors-website-data/main/images/rahul-mehta-4-1769163690244.jpg"
   }
 ]
