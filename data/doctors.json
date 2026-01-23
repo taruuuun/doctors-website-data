@@ -14,5 +14,13 @@
     "department": "neurologist",
     "bio": "Specializes in diagnosing and treating disorders of the brain, spine, and nervous system.\nKnown for patient-centric care in managing migraines, epilepsy, and stroke.",
     "image": "https://raw.githubusercontent.com/taruuuun/doctors-website-data/main/images/rahul-mehta-4-1769171817057.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Dr. Amit Kapoor",
+    "specialty": "Cardiology & Heart Care",
+    "department": "cardiologist",
+    "bio": "Specialist in diagnosing and managing heart diseases and cardiovascular conditions.\nFocused on preventive cardiology and long-term heart health management.",
+    "image": "https://raw.githubusercontent.com/taruuuun/doctors-website-data/main/images/amit-kapoor-5-1769173617831.jpg"
   }
 ]
