@@ -6,5 +6,13 @@
     "department": "neurologist",
     "bio": "Specializes in diagnosing and treating disorders of the brain, spine, and nervous system.\nKnown for patient-centric care in managing migraines, epilepsy, and stroke.",
     "image": "https://raw.githubusercontent.com/taruuuun/doctors-website-data/main/images/rahul-mehta-1-1769162564613.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Pooja Verma",
+    "specialty": "Obstetrics & Gynecology",
+    "department": "gynecologist",
+    "bio": "Specializes in diagnosing and treating disorders of the brain, spine, and nervous system.\nKnown for patient-centric care in managing migraines, epilepsy, and stroke.",
+    "image": "https://raw.githubusercontent.com/taruuuun/doctors-website-data/main/images/pooja-verma-2-1769162824463.jpg"
   }
 ]
