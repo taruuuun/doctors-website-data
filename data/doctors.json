@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": 1,
+    "name": "Dr. Ananya Sharma",
+    "specialty": "Dental Surgery & Oral Care",
+    "department": "dentist",
+    "bio": "Experienced dentist focused on preventive care, cosmetic dentistry, and painless treatments.\nCommitted to helping patients maintain healthy, confident smiles.",
+    "image": "https://raw.githubusercontent.com/taruuuun/doctors-website-data/main/images/ananya-sharma-1-1769162355163.jpg"
+  }
+]
