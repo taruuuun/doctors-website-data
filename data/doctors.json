@@ -8,11 +8,11 @@
     "image": ""
   },
   {
-    "id": 3,
+    "id": 2,
     "name": "ajay",
-    "specialty": "hi",
-    "department": "psychiatrist",
+    "specialty": "dd",
+    "department": "neurologist",
     "bio": "hi",
-    "image": "https://raw.githubusercontent.com/taruuuun/doctors-website-data/main/images/ajay-3-1769094434640.jpg"
+    "image": "https://raw.githubusercontent.com/taruuuun/doctors-website-data/main/images/ajay-2-1769094205199.jpg"
   }
 ]
