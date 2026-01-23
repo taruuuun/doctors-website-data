@@ -1,13 +1,5 @@
 [
   {
-    "id": 1,
-    "name": "Dr. Sarah Johnson",
-    "specialty": "Cardiologist",
-    "department": "cardiologist",
-    "bio": "Board-certified cardiologist with 15+ years of experience in interventional cardiology. Specializes in heart failure management and preventive cardiology.",
-    "image": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
-  },
-  {
     "id": 2,
     "name": "Dr. Michael Chen",
     "specialty": "Neurologist",
