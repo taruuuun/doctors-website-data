@@ -14,5 +14,13 @@
     "department": "gynecologist",
     "bio": "Specializes in diagnosing and treating disorders of the brain, spine, and nervous system.\nKnown for patient-centric care in managing migraines, epilepsy, and stroke.",
     "image": "https://raw.githubusercontent.com/taruuuun/doctors-website-data/main/images/pooja-verma-2-1769162824463.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Suresh Iyer",
+    "specialty": "Orthopedic Surgery & Joint Care",
+    "department": "orthopedist",
+    "bio": "Expert in treating bone, joint, and muscle conditions including fractures and arthritis.\nHelps patients regain mobility through advanced surgical and non-surgical treatments.",
+    "image": "https://raw.githubusercontent.com/taruuuun/doctors-website-data/main/images/suresh-iyer-3-1769162971425.jpg"
   }
 ]
