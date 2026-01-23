@@ -14,5 +14,13 @@
     "department": "neurologist",
     "bio": "Expert in movement disorders and neurodegenerative diseases. Fellowship trained in neurophysiology with extensive research experience.",
     "image": "https://images.unsplash.com/photo-1537368910025-700350fe46c7?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Ananya Sharma",
+    "specialty": "Dental Surgery & Oral Care",
+    "department": "dentist",
+    "bio": "Experienced dentist focused on preventive care, cosmetic dentistry, and painless treatments.\nCommitted to helping patients maintain healthy, confident smiles.",
+    "image": "https://raw.githubusercontent.com/taruuuun/doctors-website-data/main/images/ananya-sharma-3-1769163555976.jpg"
   }
 ]
