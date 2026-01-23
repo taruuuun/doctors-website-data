@@ -1,26 +1,18 @@
 [
   {
     "id": 1,
-    "name": "Dr. Rahul Mehta",
-    "specialty": "Neurology & Brain Disorders",
-    "department": "neurologist",
-    "bio": "Specializes in diagnosing and treating disorders of the brain, spine, and nervous system.\nKnown for patient-centric care in managing migraines, epilepsy, and stroke.",
-    "image": "https://raw.githubusercontent.com/taruuuun/doctors-website-data/main/images/rahul-mehta-1-1769162564613.jpg"
+    "name": "Dr. Sarah Johnson",
+    "specialty": "Cardiologist",
+    "department": "cardiologist",
+    "bio": "Board-certified cardiologist with 15+ years of experience in interventional cardiology. Specializes in heart failure management and preventive cardiology.",
+    "image": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
   },
   {
     "id": 2,
-    "name": "Dr. Pooja Verma",
-    "specialty": "Obstetrics & Gynecology",
-    "department": "gynecologist",
-    "bio": "Specializes in diagnosing and treating disorders of the brain, spine, and nervous system.\nKnown for patient-centric care in managing migraines, epilepsy, and stroke.",
-    "image": "https://raw.githubusercontent.com/taruuuun/doctors-website-data/main/images/pooja-verma-2-1769162824463.jpg"
-  },
-  {
-    "id": 3,
-    "name": "Dr. Suresh Iyer",
-    "specialty": "Orthopedic Surgery & Joint Care",
-    "department": "orthopedist",
-    "bio": "Expert in treating bone, joint, and muscle conditions including fractures and arthritis.\nHelps patients regain mobility through advanced surgical and non-surgical treatments.",
-    "image": "https://raw.githubusercontent.com/taruuuun/doctors-website-data/main/images/suresh-iyer-3-1769162981950.jpg"
+    "name": "Dr. Michael Chen",
+    "specialty": "Neurologist",
+    "department": "neurologist",
+    "bio": "Expert in movement disorders and neurodegenerative diseases. Fellowship trained in neurophysiology with extensive research experience.",
+    "image": "https://images.unsplash.com/photo-1537368910025-700350fe46c7?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
   }
 ]
