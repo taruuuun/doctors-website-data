@@ -22,5 +22,13 @@
     "department": "cardiologist",
     "bio": "Specialist in diagnosing and managing heart diseases and cardiovascular conditions.\nFocused on preventive cardiology and long-term heart health management.",
     "image": "https://raw.githubusercontent.com/taruuuun/doctors-website-data/main/images/amit-kapoor-5-1769173617831.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Dr. K. V. R parasad",
+    "specialty": "androlgist",
+    "department": "urologist",
+    "bio": "This is prasad senior urologist 15years expirence",
+    "image": "https://raw.githubusercontent.com/taruuuun/doctors-website-data/main/images/k-v-r-parasad-6-1769253847447.jpg"
   }
 ]
