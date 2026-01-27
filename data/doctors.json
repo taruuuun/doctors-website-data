@@ -30,5 +30,13 @@
     "department": "urologist",
     "bio": "This is prasad senior urologist 15years expirence",
     "image": "https://raw.githubusercontent.com/taruuuun/doctors-website-data/main/images/k-v-r-parasad-6-1769253847447.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Dr Arun Arora Pagadapelli",
+    "specialty": "Gastroenterology",
+    "department": "gastroenterologist",
+    "bio": "MD(GENERAL MEDICINE), DM(GASTROENTEROLOGY - GOLD MEDALIST), FELLOWSHIP IN ADVANCED GI ENDOSCOPY - (PUNE and JAPAN) BARIATRIC ENDOSCOPIST (ENDOSCOPIC BALLOON & SLEEVE GASTROPLASTY)\nSpecialization: Medical gastroenterology\nDesignation Icon Designation: Consultant GastroEnterologist Hepatologist and Interventional Endoscopist\n\n Expertise\n Endoscopy Diagnostic and therapeutic (Biopsies, EVL banding, foreign body removal)\n Colonoscopy Diagnostic and therapeutic (Polypectomy- EMR, ESD)\n ERCP - Therapeutic\n EUS - Diagnostic\n EUS FNB\n EUS Pseudocyst Drainage\n EUS-guided Biliary Drainage\n Third space - POEM, ESD, STER, EFTR\n Bariatric- Endoscopic Ballon and Sleeve Gastroplasty\n All liver-related diseases - CLD, Fatty Liver, etc.",
+    "image": "https://raw.githubusercontent.com/taruuuun/doctors-website-data/main/images/arun-arora-pagadapelli-7-1769522099138.webp"
   }
 ]
