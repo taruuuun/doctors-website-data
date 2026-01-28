@@ -16,6 +16,14 @@
     "image": "https://raw.githubusercontent.com/taruuuun/doctors-website-data/main/images/rahul-mehta-4-1769171817057.jpeg"
   },
   {
+    "id": 5,
+    "name": "Dr. Amit Kapoor",
+    "specialty": "Cardiology & Heart Care",
+    "department": "cardiologist",
+    "bio": "Specialist in diagnosing and managing heart diseases and cardiovascular conditions.\nFocused on preventive cardiology and long-term heart health management.",
+    "image": "https://raw.githubusercontent.com/taruuuun/doctors-website-data/main/images/amit-kapoor-5-1769173617831.jpg"
+  },
+  {
     "id": 6,
     "name": "Dr. K. V. R parasad",
     "specialty": "androlgist",
@@ -38,5 +46,13 @@
     "department": "dentist",
     "bio": "hi",
     "image": "https://raw.githubusercontent.com/taruuuun/doctors-website-data/main/images/tarun-8-1769577965057.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Chandu Raj",
+    "specialty": "Orthopedist",
+    "department": "orthopedist",
+    "bio": "Hi this is Chandu",
+    "image": "https://raw.githubusercontent.com/taruuuun/doctors-website-data/main/images/chandu-raj-9-1769578473733.jpg"
   }
 ]
