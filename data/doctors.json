@@ -16,14 +16,6 @@
     "image": "https://raw.githubusercontent.com/taruuuun/doctors-website-data/main/images/rahul-mehta-4-1769171817057.jpeg"
   },
   {
-    "id": 5,
-    "name": "Dr. Amit Kapoor",
-    "specialty": "Cardiology & Heart Care",
-    "department": "cardiologist",
-    "bio": "Specialist in diagnosing and managing heart diseases and cardiovascular conditions.\nFocused on preventive cardiology and long-term heart health management.",
-    "image": "https://raw.githubusercontent.com/taruuuun/doctors-website-data/main/images/amit-kapoor-5-1769173617831.jpg"
-  },
-  {
     "id": 6,
     "name": "Dr. K. V. R parasad",
     "specialty": "androlgist",
@@ -38,6 +30,14 @@
     "department": "gastroenterologist",
     "bio": "MD(GENERAL MEDICINE), DM(GASTROENTEROLOGY - GOLD MEDALIST), FELLOWSHIP IN ADVANCED GI ENDOSCOPY - (PUNE and JAPAN) BARIATRIC ENDOSCOPIST (ENDOSCOPIC BALLOON & SLEEVE GASTROPLASTY)\nSpecialization: Medical gastroenterology\nDesignation Icon Designation: Consultant GastroEnterologist Hepatologist and Interventional Endoscopist\n\n Expertise\n Endoscopy Diagnostic and therapeutic (Biopsies, EVL banding, foreign body removal)\n Colonoscopy Diagnostic and therapeutic (Polypectomy- EMR, ESD)\n ERCP - Therapeutic\n EUS - Diagnostic\n EUS FNB\n EUS Pseudocyst Drainage\n EUS-guided Biliary Drainage\n Third space - POEM, ESD, STER, EFTR\n Bariatric- Endoscopic Ballon and Sleeve Gastroplasty\n All liver-related diseases - CLD, Fatty Liver, etc.",
     "image": "https://raw.githubusercontent.com/taruuuun/doctors-website-data/main/images/arun-arora-pagadapelli-7-1769522099138.webp"
+  },
+  {
+    "id": 8,
+    "name": "tarun",
+    "specialty": "Dentist",
+    "department": "dentist",
+    "bio": "hi",
+    "image": "https://raw.githubusercontent.com/taruuuun/doctors-website-data/main/images/tarun-8-1769577965057.jpg"
   },
   {
     "id": 9,
